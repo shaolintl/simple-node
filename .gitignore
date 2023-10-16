@@ -1,0 +1,22 @@
+# Dependencies
+/node_modules
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+.env
+
+# Editors
+.vscode/
+.idea/
+
+# OS generated
+.DS_Store
+*.pem
+
+# Test coverage reports
+coverage/
+
